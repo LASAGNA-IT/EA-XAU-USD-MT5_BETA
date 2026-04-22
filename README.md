@@ -82,7 +82,7 @@ class Config:
  MAX_DAILY_LOSS_PERCENT = 2.5
  MAX_CONSECUTIVE_LOSSES = 3
  MAX_DRAWDOWN_PERCENT = 5.0
-
+```
 7.  COME FUNZIONA IL SISTEMA IBRIDO DI TAKE PROFIT
 ------------------------------
 Il bot calcola il TP combinando fino a 4 strategie con pesi dinamici:
