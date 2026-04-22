@@ -103,10 +103,6 @@ gli investitori. I risultati passati non garantiscono performance future.
 Questo bot è fornito a scopo educativo e di ricerca. L'utente è l'unico
 responsabile delle decisioni di trading e delle eventuali perdite subite.
 
-⚠️ UTILIZZARE SOLO SU CONTO DEMO INIZIALMENTE
-Testare il bot per almeno alcune settimane su un conto demo prima di considerare
-l'utilizzo su conto reale.
-
 ⚠️ CREDENZIALI HARDCODED
 Le credenziali MT5 sono scritte in chiaro nel file di configurazione.
 Non condividere il file con terzi e proteggere adeguatamente il proprio computer.
