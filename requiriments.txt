@@ -1,0 +1,6 @@
+MetaTrader5
+pandas
+numpy
+scikit-learn
+ta-lib
+tensorflow==2.15.0
